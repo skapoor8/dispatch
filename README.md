@@ -6,10 +6,12 @@ vital information outside the portal itself. This is a collaborative project
 made in fulfilment of the Tufts COMP 120 - Web Engineering Final Project
 Requirement.
 
-See a live demo [HERE](https://shielded-reef-65123.herokuapp.com/)
-Access the API [HERE](https://shielded-reef-65123.herokuapp.com/api.html)
+See a live demo [HERE](https://shielded-reef-65123.herokuapp.com/).
 
-Please request for a usernam of password from one of the authors.
+Access the API [HERE](https://shielded-reef-65123.herokuapp.com/api.html).
+
+Please request for a username and password from one of the authors to access
+the demo.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -28,8 +30,8 @@ Please request for a usernam of password from one of the authors.
 This is the working repository for the Comp120 Team 4's incident-reporting solution. All the code necessary to run the minimum viable product will be found here.
 
 Authors:
-* :squirrel: Dariusz Adamczyk
-* Jared Gall 
+* :tiger: Dariusz Adamczyk
+* :horse: Jared Gall 
 * :dragon: Siddharth Kapoor
 * :elephant: Maya Saxena
 
